@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 'Run this command to start'
+## Run this command to start
 ### `npm i` 
 
 ## Available Scripts
